@@ -1,0 +1,11 @@
+
+/* Hangli THEME */
+@import url(https://gilbn.github.io/theme.park/CSS/themes/grafana/grafana-base.css);
+:root {
+  --main-bg-color: url("/public/img/bg/power.jpg"), url("/public/img/bg/power.jpg") center center/cover no-repeat fixed;
+  --modal-bg-color: url("/public/img/bg/power.jpg"), url("/public/img/bg/power.jpg") center center/cover no-repeat fixed;
+  --button-color: #cc7b19;
+  --button-color-hover: #e59029;
+  --accent-color:  #e5a00d;
+  --accent-color-hover: #ffc107;
+}
